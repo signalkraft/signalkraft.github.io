@@ -1,0 +1,65 @@
+contact:
+  name: Philipp Dörner
+  email: pd@signalkraft.com
+  job: Co-Founder & CTO
+  date_of_birth: 12/12/1987
+  location:
+    address: Walter-Gropius-Str. 17
+    city: Munich
+    country: DE
+    zip: "80807"
+  phone: +49 89 21 55 16 16
+experiences:
+- company: Motius GmbH
+  position: Co-Founder & CTO
+  start_date: May 2013
+  summary: |
+        Leading a team of over 30 engineers and project managers, working on new-tech product development.
+        Worked with almost every large German tech corporate, achieved a success & follow-up rate of 80%.
+  website: https://motius.de
+  tags:
+  - cto
+  - cofounder
+  - engineering management
+  - chief product owner
+  - innovation management
+  - scrum
+- company: Signalkraft.com
+  position: Web application developer
+  start_date: October 2009
+  end_date: May 2013
+  summary: |
+        Consulted several corporate customers in innovation projects.
+        Developed new applications based on Python, Django, and SPA tech for some Munich-based startups.
+  website: https://signalkraft.com
+  tags:
+  - freelancer
+  - django
+  - python
+  - javascript
+  - postgresql
+skills:
+  - name: cto
+    level: 99
+profiles:
+- network: Github
+  url: https://github.com/signalkraft
+- network: Linkedin
+  url: https://www.linkedin.com/in/philippdoerner/
+- network: Personal website
+  url: https://signalkraft.com
+education:
+- degree: Dipl. Ing. Luft- und Raumfahrttechnik
+  start_date: October 2007
+  end_date: January 2014
+  institution: Technische Universität München
+  website: https://www.tum.de/
+languages:
+- name: German
+  level: Native language
+- name: English
+  level: Proficient
+hobbies:
+- name: snowboarding & splitboarding
+- name: photography
+- name: weird cars & motorcycles

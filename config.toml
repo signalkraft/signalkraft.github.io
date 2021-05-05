@@ -1,0 +1,25 @@
+baseURL = "https://signalkraft.com/"
+languageCode = "en-us"
+title = "signalkraft"
+theme = "sam"
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+[[params.mainMenu]]
+    link = "/"
+    text = "home"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "philipp dörner"
+
+[[params.mainMenu]]
+    link = "https://motius.de"
+    text = "motius"
+
+[[params.mainMenu]]
+    link = "mailto:pd@signalkraft.com"
+    text = "contact"
+
+[params]
+    customCSS = ["css/custom.css"]

@@ -1,0 +1,5 @@
+{{ $file := .Get "file" }}
+{{ $language := .Get "language" }}
+```{{ $language }}
+{{ $file  | readFile | safeHTML }}
+```
