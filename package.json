@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/signalkraft/signalkraft.github.io#readme",
   "dependencies": {
-    "postcss": "^8.2.14"
+    "postcss-cli": "^8.3.1"
   }
 }
