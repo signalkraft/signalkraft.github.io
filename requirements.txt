@@ -1,0 +1,6 @@
+click>=7.0
+pyyaml>=5.0
+cerberus>=1.0
+jinja2>=2.10
+WeasyPrint==52.1
+yaml-resume==0.7.9
